@@ -4,9 +4,9 @@ package com.capgemini.JavaCode;
 public class DecisionMaking2 {
 	public static void main(String[] args) 
 	{
-		int x = 8, y = 7;
+		int FirstNum = 8, SecondNum = 7;
 		
-           if(x >= y)
+           if(FirstNum >= SecondNum)
            {
         	   System.out.println("true");
            }
