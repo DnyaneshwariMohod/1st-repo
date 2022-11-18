@@ -1,9 +1,9 @@
-package ExceptionEX;
+package com.exceptionex;
 
 import java.io.IOException;
 import java.sql.SQLException;
 
-public class ThrowsEX {
+public class ThrowsEX1 {
 	//dev 1
 	
 	
@@ -37,7 +37,7 @@ public class ThrowsEX {
 
 	public static void main(String[] args) throws Exception {
 		
-		ThrowsEX obj=new ThrowsEX();
+		ThrowsEX1 obj=new ThrowsEX1();
 		obj.m1();
 		obj.m2();
 		obj.m3();

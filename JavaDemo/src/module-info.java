@@ -6,4 +6,5 @@
  *
  */
 module JavaDemo {
+	requires java.sql;
 }
