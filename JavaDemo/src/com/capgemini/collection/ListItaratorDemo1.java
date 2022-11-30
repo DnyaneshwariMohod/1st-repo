@@ -1,4 +1,4 @@
-package com.collection;
+package com.capgemini.collection;
 
 import java.util.Collections;
 import java.util.Iterator;
